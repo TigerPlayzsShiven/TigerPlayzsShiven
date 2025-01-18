@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @TigerPlayzsShiven
+- 👋 Hi, I’m @Loom 
 - 👀 I’m interested in ...gameing,memes and anime
-- 🌱 I’m currently learning ...html and in school
 - 💞️ I’m looking to collaborate on ...youtube instagram and discord
-- 📫 How to reach me ...email-shiven.thakur2005@gmail.com and youtube UCWqzuCOHzcKdCrx2WDFb9NQ NAME-TigerPlayzs Shiven https://www.youtube.com/@TigerPlayzs_Shiven/featured
+- 📫 How to reach me ...email-shiven.thakur2005@gmail.com and youtube https://www.youtube.com/@loom_edits.k1
 
 <!---
 TigerPlayzsShiven/TigerPlayzsShiven is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
